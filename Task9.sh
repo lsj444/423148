@@ -1,6 +1,3 @@
-Exp No: 9                                    Date: 01-04-2025  
-Roll No: 423148
-
 Aim: To install required packages using rpm/deb/apt.
 
 How do I check if my Linux is DEB or RPM?
